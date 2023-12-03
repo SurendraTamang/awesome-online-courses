@@ -42,3 +42,6 @@ Curated list of Links, Articles, Discussion about awesome courses or tutorials
 
 - **Paul Davids’ Guitar Courses**: Guitar lessons and techniques.
   - No direct link provided.
+ 
+- **Some underated python libraries**
+    - [HN](https://news.ycombinator.com/item?id=38505531)
