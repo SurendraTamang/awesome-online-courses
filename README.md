@@ -45,3 +45,6 @@ Curated list of Links, Articles, Discussion about awesome courses or tutorials
  
 - **Some underated python libraries**
     - [HN](https://news.ycombinator.com/item?id=38505531)
+ 
+- **Microservice Architecture and System Design with Python & Kubernetes – Full Course**
+  - [Youtube](https://www.youtube.com/watch?v=hmkF77F9TLw)
