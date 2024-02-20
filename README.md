@@ -48,3 +48,5 @@ Curated list of Links, Articles, Discussion about awesome courses or tutorials
  
 - **Microservice Architecture and System Design with Python & Kubernetes – Full Course**
   - [Youtube](https://www.youtube.com/watch?v=hmkF77F9TLw)
+- Learning advice for DSA
+  - [Reddit Post](https://www.reddit.com/r/learnprogramming/comments/zh9brb/how_do_you_learn_data_structures_and_algorithms/)
