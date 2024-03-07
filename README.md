@@ -50,3 +50,5 @@ Curated list of Links, Articles, Discussion about awesome courses or tutorials
   - [Youtube](https://www.youtube.com/watch?v=hmkF77F9TLw)
 - Learning advice for DSA
   - [Reddit Post](https://www.reddit.com/r/learnprogramming/comments/zh9brb/how_do_you_learn_data_structures_and_algorithms/)
+- **Multiprocessing and Multithreading**
+  -[threading vs multiprocessing in python](https://www.youtube.com/watch?v=AZnGRKFUU0c)
